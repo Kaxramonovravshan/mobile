@@ -178,6 +178,8 @@
 @media (max-width: 500px) {
   .sec-1 {
     background: url(./img/mobiRectangle\ 6.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   .sec-1 .sec1-con {
     padding: 0 16px;
